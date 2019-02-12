@@ -1,0 +1,4 @@
+DirectoryIndex index.html index.wsgi index.cgi
+
+AddHandler cgi-script .cgi
+AddHandler wsgi-script .wsgi
